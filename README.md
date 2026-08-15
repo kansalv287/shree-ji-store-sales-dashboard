@@ -14,9 +14,6 @@ This project presents an interactive Excel Sales Dashboard developed for Shree J
 - Identifying profitable and low-performing products
 - Understanding sales trendsThe dashboard provides a consolidated view of sales and profitability and helps identify important business trends and performance areas.
 
-## Dashboard
-
-![Shree Ji Store Dashboard](Dashboard_Screenshot.png)
 
 ## Key Features
 
